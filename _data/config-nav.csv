@@ -2,8 +2,8 @@ display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
 display_text,stub,dropdown_parent
-Hudson and Black Students,/history.md,
-About,/about.md,
+Hudson and Black Students,/history.html,
+About,/about.html,
 Subjects,/subjects.html
 Locations,/locations.html
 Map,/map.html
