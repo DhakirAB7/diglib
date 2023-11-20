@@ -14,8 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
+This digital collection of materials as it stands is a launching pad to a larger project which seeks to forground the history that chronicles Herman Hudson’s role as Vice Chancellor of Afro-American Affairs, specifically from the years 1970-1975, where he helped to create a unique and academically sound Black Studies department through administrative savvy and institution building. That is to say he founded African American Studies department, the Black Culture Center, and the African American Arts Insituture between the years 1970-1975. Strategically he insured that all of the former insitutions were were linked in a mutually supporting “academic triumvirate’ that was deeply entrenched into the University’s structure and substantially resistant to academic dismantle. The evidence of the effectivenss of this triumvirate is made manifest by the fact that all of those insitutions stand today and have celebrated close to 50 years of existence. On this background, at this time, this project seeks to provide a visual narrative of the ways in which Dr. Herman C. Hudson became the first Vice Chancellor for Afro-American Affairs in 1970 while simultaneously becoming the founding chair of the then Afro-American Studies department.It is the author's hope to preserve this important history through the digital sphere as an open educational resource which will make this history more accessible to those within and beyond the university walls.
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
 
