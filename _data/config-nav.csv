@@ -1,5 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/
+display_text,stub,dropdown_parent
+Collection History,/hch.md,
+About,/about.md,
 Browse,/browse.html
 Subjects,/subjects.html
 Locations,/locations.html
