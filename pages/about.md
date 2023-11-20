@@ -20,7 +20,8 @@ On this background, at this time, this project seeks to provide a visual narrati
 
 With that said however, there were also three key women who supported Hudson during the formative years of the deparment as he formed this academic triumvarate: Professors, Portia Maultsby,Irisa Rosa, Mellonee Burnim, and . These outstanding women would be the founding Directors/Professors of the African American Soul Revue,the African American Dance Company, and the African American Choral Ensemble respectively. Tap on the button below to here them recount that history and state the importance of those entities in the present moment.  
 
-{% include feature/button.html text="Button to First Ladies of AAAI" link={% "https://iu.mediaspace.kaltura.com/media/t/1_c47gr4hr" %}
+{% include feature/button.html text="Button to First Ladies of AAAI" link="https://iu.mediaspace.kaltura.com/media/t/1_c47gr4hr" color="success" %} 
+
 
 {% include feature/timelinejs.html %}s
 
