@@ -10,9 +10,9 @@ credits: true
 
 {% include feature/image.html objectid="d1" width="75" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}  
+{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}  {% include feature/button.html text="Button Link to metadata" link="https://docs.google.com/spreadsheets/d/1bMrUfWjoOiLgJEETzIOmMa_033sVbCtfXiZp5u1CUxk/edit#gid=1470060479" %}
 
-## About the author  
+## About the author 
 
 Dhakir Abdullah is a PhD candidate in the department of African American and African Diaspora Studies; he minors in sociololgy. His research focuses on the Black Studies Movement at IUB in the late 1960s and early 1970s and how that movement, in conjunction with the administrative efforts of Herman C. Hudson, led to the founding of the Black Studies department at Indiana University Bloomington. Dhakir is also a Master of Library Science student in the Luddy School where he specializes in digital humanties. He is also a 2023-24 HASTAC Fellow with the Institute of Digital Arts and Humanities and organzation that provided him with his first introduction to the intersections of the humanties with the digital sphere as a academic enterprise.
 ### Acknowledgments
